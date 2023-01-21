@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Java, MERN Stack*
 
-- 👨‍💻 All of my projects are available at [GitHub.com/Vignaraj-1018](GitHub.com/Vignaraj-1018)
+- 👨‍💻 All of my projects are available at [GitHub.com/Vignaraj-1018](https://github.com/Vignaraj-1018?tab=repositories)]
 
 - 💬 Ask me about *React, Java, Python*
 
