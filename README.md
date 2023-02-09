@@ -3,11 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=vignaraj-1018&style=flat-square&color=red)
 
-- 🌱 I’m currently learning *Java, MERN Stack*
+- 🌱 I’m currently learning *Cloud, MERN Stack*
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Vignaraj-1018](https://github.com/Vignaraj-1018?tab=repositories)]
 
-- 💬 Ask me about *React, Java, Python*
+- 💬 Ask me about *React, Python*
 
 - 📫 Reach me *vignaraj03@gmail.com*
 
