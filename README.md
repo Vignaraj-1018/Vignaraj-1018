@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignaraj</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">MSc Software Systems, 3rd Year</h3>
 
 ![](https://komarev.com/ghpvc/?username=vignaraj-1018&style=flat-square&color=red)
 
