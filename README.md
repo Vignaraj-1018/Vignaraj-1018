@@ -3,11 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=vignaraj-1018&style=flat-square&color=red)
 
-- 🌱 I’m currently learning *MERN Stack*
+- 🌱 I’m currently doing **Full Stack Developer Intern at SMARTAIL Pvt. Ltd., Chennai.**
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Vignaraj-1018](https://github.com/Vignaraj-1018?tab=repositories)]
 
-- 💬 Ask me about *React, Python*
+- 💬 Ask me about *React, Angular, Python*
 
 - 📫 Reach me *vignaraj03@gmail.com*
 
