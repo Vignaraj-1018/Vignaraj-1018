@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vignaraj</h1>
-<h3 align="center">MSc Software Systems, 3rd Year</h3>
+<h3 align="center">MSc Software Systems, 4rd Year</h3>
 
 ![](https://komarev.com/ghpvc/?username=vignaraj-1018&style=flat-square&color=red)
 
-- 🌱 4th year M.Sc Software Systems at Coimbatore Institute of Technology 
+<!-- - 🌱 4th year M.Sc Software Systems at Coimbatore Institute of Technology -->
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Vignaraj-1018](https://github.com/Vignaraj-1018?tab=repositories)]
 
