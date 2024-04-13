@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vignaraj</h1>
 <h3 align="center">MSc Software Systems</h3>
-<h4><a href="https://vignaraj.netlify.app/">https://vignaraj.netlify.app/</a></h4>
 
 ![](https://komarev.com/ghpvc/?username=vignaraj-1018&style=flat-square&color=red)
 
 <!-- - 🌱 4th year M.Sc Software Systems at Coimbatore Institute of Technology -->
 
-- 👨‍💻 All of my projects are available at [GitHub.com/Vignaraj-1018](https://github.com/Vignaraj-1018?tab=repositories)]
+- 👨‍💻 All of my projects are available at [GitHub.com/Vignaraj-1018](https://github.com/Vignaraj-1018?tab=repositories)
 
 - 💬 Ask me about *React, Angular, Python, Spring Boot*
 
+- My Portfolio : [vignaraj.netlify.app](https://vignaraj.netlify.app)
+  
 - 📫 Reach me *vignaraj03@gmail.com*
 
 - 👨‍ I love  *Coding, Gaming*
