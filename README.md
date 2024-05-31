@@ -16,7 +16,7 @@ I'm **Vignaraj D**, an aspiring Full Stack Developer passionate about creating e
 - Developed several full stack projects showcasing my skills in front-end and back-end development
 
 ## 📫 How to Reach Me:
-- [LinkedIn](https://helper-api-vignu.el.r.appspot.com/redirect_links/redirect/665a081f3a98b011b194a66c)
+- [LinkedIn](https://www.linkedin.com/in/vignaraj-d/)
 - [Email](mailto:vignaraj03@gmail.com)
 
 I'm always eager to collaborate on innovative projects and contribute to solving real-world problems. 
