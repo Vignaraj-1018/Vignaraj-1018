@@ -2,6 +2,8 @@
 
 I'm **Vignaraj D**, an aspiring Full Stack Developer passionate about creating efficient and scalable solutions. I'm currently pursuing an M.Sc in Software Systems and have a solid foundation in both front-end and back-end technologies.
 
+![](https://github-profile-trophy.vercel.app/?username=vignaraj-1018&theme=darkhub)
+
 ## 🚀 About Me:
 - **Technical Skills**: React, Angular, Python, Spring Boot, MongoDB, C++
 - **Professional Experience**: Completed a 6-month internship at Smartail as a Software Engineer
@@ -19,7 +21,6 @@ I'm **Vignaraj D**, an aspiring Full Stack Developer passionate about creating e
 - [LinkedIn](https://www.linkedin.com/in/vignaraj-d/)
 - [Email](mailto:vignaraj03@gmail.com)
 
-![](https://github-profile-trophy.vercel.app/?username=vignaraj-1018&theme=darkhub)
 
 I'm always eager to collaborate on innovative projects and contribute to solving real-world problems. 
 Let's connect and create something amazing together!
