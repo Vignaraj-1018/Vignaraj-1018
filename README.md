@@ -19,5 +19,7 @@ I'm **Vignaraj D**, an aspiring Full Stack Developer passionate about creating e
 - [LinkedIn](https://www.linkedin.com/in/vignaraj-d/)
 - [Email](mailto:vignaraj03@gmail.com)
 
+![](https://github-profile-trophy.vercel.app/?username=vignaraj-1018&theme=darkhub)
+
 I'm always eager to collaborate on innovative projects and contribute to solving real-world problems. 
 Let's connect and create something amazing together!
