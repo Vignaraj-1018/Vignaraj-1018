@@ -2,6 +2,8 @@
 
 I'm **Vignaraj D**, an aspiring Full Stack Developer passionate about creating efficient and scalable solutions. I'm currently pursuing an M.Sc in Software Systems and have a solid foundation in both front-end and back-end technologies.
 
+[![](https://visitcount.itsvg.in/api?id=Vignaraj&label=Github%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ![](https://github-profile-trophy.vercel.app/?username=vignaraj-1018&theme=darkhub)
 
 ## 🚀 About Me:
@@ -20,6 +22,7 @@ I'm **Vignaraj D**, an aspiring Full Stack Developer passionate about creating e
 ## 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/vignaraj-d/)
 - [Email](mailto:vignaraj03@gmail.com)
+- [Portfolio](https://vignaraj.netlify.app/)
 
 
 I'm always eager to collaborate on innovative projects and contribute to solving real-world problems. 
